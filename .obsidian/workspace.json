@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 1.md",
+                "file": "Day 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1"
+              "title": "Day 2"
             }
           }
         ],
@@ -198,18 +198,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "dec3155d70594624",
+  "active": "8befcd6e3f3e9db8",
   "lastOpenFiles": [
+    "assets/Pasted image 20251211113055.png",
+    "assets/Pasted image 20251211110944.png",
+    "assets/Pasted image 20251211110514.png",
+    "assets/Pasted image 20251211110116.png",
+    "assets/Pasted image 20251211105842.png",
+    "assets/Pasted image 20251211104338.png",
+    "Day 1.md",
+    "Day 2.md",
     "README.md",
     "README.md.md",
-    "Day 1.md",
     "assets/Pasted image 20251207190554.png",
     "assets/Pasted image 20251207190310.png",
     "assets/Pasted image 20251207185928.png",
     "assets/Pasted image 20251207184910.png",
     "assets/Pasted image 20251207184248.png",
-    "assets/Pasted image 20251207183642.png",
-    "assets/Pasted image 20251207183552.png",
     "assets"
   ]
 }
